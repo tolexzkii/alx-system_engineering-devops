@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lntga
+ls -1lntga | sort
